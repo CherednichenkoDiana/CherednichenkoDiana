@@ -6,6 +6,14 @@
   <img src="https://github.com/CherednichenkoDiana/CherednichenkoDiana/blob/main/gif2.gif" alt="The Unlimited" width="600">
 </p>
 
+<div align="center">
+  
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherednichenkoDiana&show_icons=true&theme=transparent)
+
 ![Static Badge](https://img.shields.io/badge/py-Python-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/-Figma-red?logo=figma)
+
+</div>
+
+
 
